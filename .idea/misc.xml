@@ -1,0 +1,29 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="StoredSessionsInfoStore">
+    <option name="sessions">
+      <list>
+        <SessionInfoState>
+          <option name="id" value="20260412-154812-87c90695-5394-4cf1-8de4-4c84c2ec652a" />
+          <option name="lastUpdateTimestamp" value="1775989092829" />
+          <option name="responseMode" value="Agent" />
+          <option name="title" value="New Agent Session" />
+          <option name="user" value="guest" />
+        </SessionInfoState>
+        <SessionInfoState>
+          <option name="id" value="20260412-154812-763d8b87-bb23-464a-a280-046f3795060d" />
+          <option name="lastUpdateTimestamp" value="1775989092889" />
+          <option name="responseMode" value="Agent" />
+          <option name="title" value="New Agent Session" />
+          <option name="user" value="sachitmalik5@gmail.com" />
+        </SessionInfoState>
+      </list>
+    </option>
+  </component>
+</project>
